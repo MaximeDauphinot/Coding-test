@@ -1,0 +1,3 @@
+"page1.initialSettings.coordinates[1]": { "value": "Wow JSON injected!!" }
+"page1.initialSettings.color": "green"
+"page1.available-filters.name-filter.sort": "asc"
